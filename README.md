@@ -1,1 +1,2 @@
-# EggQCA-Globant
+# Migthy Ducks Hockey League
+
